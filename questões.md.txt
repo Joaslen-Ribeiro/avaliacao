@@ -1,0 +1,24 @@
+1- tem um erro de digitação 
+
+"public String endpooint() {
+ return service.mensagem();
+ }", onde a palavra endpoint tem duas letras "o"
+
+2- 
+
+3- deve usar o JDK, e não a jre que faz parte da JDK
+
+4- devem ser criadas a partir da develop
+
+5- Anotação @Autowired
+
+6-
+
+7- Reposta (D)
+
+8- Escreva de forma simples para que serve e como usar a interpolação no Vue.js
+(escreva um exemplo simples em vue.js)
+
+Resposta: serve para alterar o DOM e adicionar novos elementos ao HTML. 
+Antes de se usar a interpolação do Vue.js deve-se importá-lo para o HTML, 
+após isso basta criar uma div com uma tag <h1>, <p> ou de preferencia e colocar o conteúdo a ser alterado entre chaves duplas "{{message}}"
